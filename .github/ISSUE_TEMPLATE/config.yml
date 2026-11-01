@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the project guide
+    url: https://github.com/Demo-tech-coder/shop-api#readme
+    about: Check the README before opening an issue.
